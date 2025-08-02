@@ -1,0 +1,24 @@
+[33mcommit a03f4f303dc010c50f9762ab8c06eeb9dfc69ed8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 003dc1d 0a6a2ba
+Author: Joji Morikawa <morikawaj@my.smccd.edu>
+Date:   Wed Jun 25 20:48:40 2025 -0700
+
+    merging1
+
+[33mcommit 003dc1d7131280f08f896ee45880040c77b88151[m
+Author: Joji Morikawa <morikawaj@my.smccd.edu>
+Date:   Wed Jun 25 20:46:27 2025 -0700
+
+    testing
+
+[33mcommit 0a6a2bab4e6e407310f096b47b589a2c355732ed[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Joji-M <151698917+Joji-M@users.noreply.github.com>
+Date:   Wed Jun 25 20:38:05 2025 -0700
+
+    Update HELLOWORLD.py
+
+[33mcommit a517158dcb268c278bfdd5e4995134f8cfd63c9e[m
+Author: Joji Morikawa <morikawaj@my.smccd.edu>
+Date:   Wed Jun 25 20:06:47 2025 -0700
+
+    first commit and changes
